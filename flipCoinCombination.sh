@@ -1,4 +1,5 @@
 #!/bin/bash -x
+
 H_H=1
 H_T=2
 T_H=3
